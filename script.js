@@ -15,9 +15,9 @@ const CONFIG = {
     
     // Statistics (demo data - replace with real data)
     stats: {
-        freelancers: 1250,
-        jobs: 890,
-        matches: 2100
+        freelancers: 3,
+        jobs: 0,
+        matches: 0
     }
 };
 
@@ -595,4 +595,5 @@ if (typeof module !== 'undefined' && module.exports) {
         handleError
     };
 }
+
 
